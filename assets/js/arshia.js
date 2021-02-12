@@ -17,7 +17,7 @@ $(document).ready(function () {
 
     clientCarousel();
     pagePilling();
-    themeOption();
+    // themeOption();
     ColorPallet();
     bgBackground();
     colorFull();
@@ -196,34 +196,34 @@ function pagePilling(){
 /*-------------------------
         Theme Option
 -------------------------*/
-function themeOption(){
-
-    "use strict";
-
-    $('.color-scheme li .dark-scheme').click(function() {
-        $("body").addClass('arshia-dark');
-        $('.color-scheme li a').removeClass('active');
-        $(this).addClass('active');
-    });
-
-    $('.color-scheme li .light-scheme').click(function() {
-        $("body").removeClass('arshia-dark');
-        $('.color-scheme li a').removeClass('active');
-        $(this).addClass('active');
-    });
-
-    $('.theme-skin li .flat-skin').click(function() {
-        $("body").addClass('flat-demo');
-        $('.theme-skin li a').removeClass('active');
-        $(this).addClass('active');
-    });
-
-    $('.theme-skin li .neo-skin').click(function() {
-        $("body").removeClass('flat-demo');
-        $('.theme-skin li a').removeClass('active');
-        $(this).addClass('active');
-    });
-}
+// function themeOption(){
+//
+//     "use strict";
+//
+//     $('.color-scheme li .dark-scheme').click(function() {
+//         $("body").addClass('arshia-dark');
+//         $('.color-scheme li a').removeClass('active');
+//         $(this).addClass('active');
+//     });
+//
+//     $('.color-scheme li .light-scheme').click(function() {
+//         $("body").removeClass('arshia-dark');
+//         $('.color-scheme li a').removeClass('active');
+//         $(this).addClass('active');
+//     });
+//
+//     $('.theme-skin li .flat-skin').click(function() {
+//         $("body").addClass('flat-demo');
+//         $('.theme-skin li a').removeClass('active');
+//         $(this).addClass('active');
+//     });
+//
+//     $('.theme-skin li .neo-skin').click(function() {
+//         $("body").removeClass('flat-demo');
+//         $('.theme-skin li a').removeClass('active');
+//         $(this).addClass('active');
+//     });
+// }
 
 // -------------------------------------------------------------
 //   Color Panel
