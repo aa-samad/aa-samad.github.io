@@ -1,0 +1,339 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{allen2009cognitive}
+Jacob~N Allen, Hoda~S Abdel-Aty-Zohdy, and Robert~L Ewing.
+\newblock Cognitive processing using spiking neural networks.
+\newblock In {\em Proceedings of the IEEE 2009 National Aerospace \&
+  Electronics Conference (NAECON)}, pages 56--64. IEEE, 2009.
+
+\bibitem{amir2017low}
+Arnon Amir, Brian Taba, David Berg, Timothy Melano, Jeffrey McKinstry, Carmelo
+  Di~Nolfo, Tapan Nayak, Alexander Andreopoulos, Guillaume Garreau, Marcela
+  Mendoza, et~al.
+\newblock A low power, fully event-based gesture recognition system.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 7243--7252, 2017.
+
+\bibitem{cao2015spiking}
+Yongqiang Cao, Yang Chen, and Deepak Khosla.
+\newblock Spiking deep convolutional neural networks for energy-efficient
+  object recognition.
+\newblock {\em International Journal of Computer Vision}, 113(1):54--66, 2015.
+
+\bibitem{deng2020rethinking}
+Lei Deng, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao,
+  Peng Li, and Yuan Xie.
+\newblock Rethinking the performance comparison between snns and anns.
+\newblock {\em Neural Networks}, 121:294--307, 2020.
+
+\bibitem{diehl2015fast}
+Peter~U Diehl, Daniel Neil, Jonathan Binas, Matthew Cook, Shih-Chii Liu, and
+  Michael Pfeiffer.
+\newblock Fast-classifying, high-accuracy spiking deep networks through weight
+  and threshold balancing.
+\newblock In {\em 2015 International Joint Conference on Neural Networks
+  (IJCNN)}, pages 1--8. ieee, 2015.
+
+\bibitem{esser2015backpropagation}
+Steve~K Esser, Rathinakumar Appuswamy, Paul Merolla, John~V Arthur, and
+  Dharmendra~S Modha.
+\newblock Backpropagation for energy-efficient neuromorphic computing.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1117--1125, 2015.
+
+\bibitem{fang2020leaky}
+Wei Fang.
+\newblock Leaky integrate-and-fire spiking neuron with learnable membrane time
+  parameter.
+\newblock {\em arXiv preprint arXiv:2007.05785}, 2020.
+
+\bibitem{gallego2017event}
+Guillermo Gallego, Jon~EA Lund, Elias Mueggler, Henri Rebecq, Tobi Delbruck,
+  and Davide Scaramuzza.
+\newblock Event-based, 6-dof camera tracking from photometric depth maps.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  40(10):2402--2412, 2017.
+
+\bibitem{han2020rmp}
+Bing Han, Gopalakrishnan Srinivasan, and Kaushik Roy.
+\newblock Rmp-snn: Residual membrane potential neuron for enabling deeper
+  high-accuracy and low-latency spiking neural network.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 13558--13567, 2020.
+
+\bibitem{hao2020biologically}
+Yunzhe Hao, Xuhui Huang, Meng Dong, and Bo Xu.
+\newblock A biologically plausible supervised learning method for spiking
+  neural networks using the symmetric stdp rule.
+\newblock {\em Neural Networks}, 121:387--395, 2020.
+
+\bibitem{hara2018can}
+Kensho Hara, Hirokatsu Kataoka, and Yutaka Satoh.
+\newblock Can spatiotemporal 3d cnns retrace the history of 2d cnns and
+  imagenet?
+\newblock In {\em Proceedings of the IEEE conference on Computer Vision and
+  Pattern Recognition}, pages 6546--6555, 2018.
+
+\bibitem{he2020comparing}
+Weihua He, YuJie Wu, Lei Deng, Guoqi Li, Haoyu Wang, Yang Tian, Wei Ding,
+  Wenhui Wang, and Yuan Xie.
+\newblock Comparing snns and rnns on neuromorphic vision datasets: Similarities
+  and differences.
+\newblock {\em arXiv preprint arXiv:2005.02183}, 2020.
+
+\bibitem{howard2017mobilenets}
+Andrew~G Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang,
+  Tobias Weyand, Marco Andreetto, and Hartwig Adam.
+\newblock Mobilenets: Efficient convolutional neural networks for mobile vision
+  applications.
+\newblock {\em arXiv preprint arXiv:1704.04861}, 2017.
+
+\bibitem{hu2018spiking}
+Yangfan Hu, Huajin Tang, Yueming Wang, and Gang Pan.
+\newblock Spiking deep residual network.
+\newblock {\em arXiv preprint arXiv:1805.01352}, 2018.
+
+\bibitem{karras2020analyzing}
+Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, and
+  Timo Aila.
+\newblock Analyzing and improving the image quality of stylegan.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 8110--8119, 2020.
+
+\bibitem{kasabov2015spiking}
+Nikola Kasabov and Elisa Capecci.
+\newblock Spiking neural network methodology for modelling, classification and
+  understanding of eeg spatio-temporal data measuring cognitive processes.
+\newblock {\em Information Sciences}, 294:565--575, 2015.
+
+\bibitem{kheradpisheh2018stdp}
+Saeed~Reza Kheradpisheh, Mohammad Ganjtabesh, Simon~J Thorpe, and Timoth{\'e}e
+  Masquelier.
+\newblock Stdp-based spiking deep convolutional neural networks for object
+  recognition.
+\newblock {\em Neural Networks}, 99:56--67, 2018.
+
+\bibitem{kim2016real}
+Hanme Kim, Stefan Leutenegger, and Andrew~J Davison.
+\newblock Real-time 3d reconstruction and 6-dof tracking with an event camera.
+\newblock In {\em European Conference on Computer Vision}, pages 349--364.
+  Springer, 2016.
+
+\bibitem{kuehne2011hmdb}
+Hildegard Kuehne, Hueihan Jhuang, Est{\'\i}baliz Garrote, Tomaso Poggio, and
+  Thomas Serre.
+\newblock Hmdb: a large video database for human motion recognition.
+\newblock In {\em 2011 International Conference on Computer Vision}, pages
+  2556--2563. IEEE, 2011.
+
+\bibitem{kueng2016low}
+Beat Kueng, Elias Mueggler, Guillermo Gallego, and Davide Scaramuzza.
+\newblock Low-latency visual odometry using event-based feature tracks.
+\newblock In {\em 2016 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)}, pages 16--23. IEEE, 2016.
+
+\bibitem{lee2018training}
+Chankyu Lee, Priyadarshini Panda, Gopalakrishnan Srinivasan, and Kaushik Roy.
+\newblock Training deep spiking convolutional neural networks with stdp-based
+  unsupervised pre-training followed by supervised fine-tuning.
+\newblock {\em Frontiers in neuroscience}, 12:435, 2018.
+
+\bibitem{li2017cifar10}
+Hongmin Li, Hanchao Liu, Xiangyang Ji, Guoqi Li, and Luping Shi.
+\newblock Cifar10-dvs: an event-stream dataset for object classification.
+\newblock {\em Frontiers in neuroscience}, 11:309, 2017.
+
+\bibitem{liu2020effective}
+Qianhui Liu, Haibo Ruan, Dong Xing, Huajin Tang, and Gang Pan.
+\newblock Effective aer object classification using segmented
+  probability-maximization learning in spiking neural networks.
+\newblock In {\em AAAI}, pages 1308--1315, 2020.
+
+\bibitem{mostafa2017supervised}
+Hesham Mostafa.
+\newblock Supervised learning based on temporal coding in spiking neural
+  networks.
+\newblock {\em IEEE transactions on neural networks and learning systems},
+  29(7):3227--3235, 2017.
+
+\bibitem{mueggler2014event}
+Elias Mueggler, Basil Huber, and Davide Scaramuzza.
+\newblock Event-based, 6-dof pose tracking for high-speed maneuvers.
+\newblock In {\em 2014 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems}, pages 2761--2768. IEEE, 2014.
+
+\bibitem{neftci2019surrogate}
+Emre~O Neftci, Hesham Mostafa, and Friedemann Zenke.
+\newblock Surrogate gradient learning in spiking neural networks: Bringing the
+  power of gradient-based optimization to spiking neural networks.
+\newblock {\em IEEE Signal Processing Magazine}, 36(6):51--63, 2019.
+
+\bibitem{orchard2015converting}
+Garrick Orchard, Ajinkya Jayawant, Gregory~K Cohen, and Nitish Thakor.
+\newblock Converting static image datasets to spiking neuromorphic datasets
+  using saccades.
+\newblock {\em Frontiers in neuroscience}, 9:437, 2015.
+
+\bibitem{patino2020event}
+Alberto Patino-Saucedo, Horacio Rostro-Gonzalez, Teresa Serrano-Gotarredona,
+  and Bernab{\'e} Linares-Barranco.
+\newblock Event-driven implementation of deep spiking convolutional neural
+  networks for supervised classification using the spinnaker neuromorphic
+  platform.
+\newblock {\em Neural Networks}, 121:319--328, 2020.
+
+\bibitem{razavi2019generating}
+Ali Razavi, Aaron van~den Oord, and Oriol Vinyals.
+\newblock Generating diverse high-fidelity images with vq-vae-2.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  14866--14876, 2019.
+
+\bibitem{rebecq2016evo}
+Henri Rebecq, Timo Horstsch{\"a}fer, Guillermo Gallego, and Davide Scaramuzza.
+\newblock Evo: A geometric approach to event-based 6-dof parallel tracking and
+  mapping in real time.
+\newblock {\em IEEE Robotics and Automation Letters}, 2(2):593--600, 2016.
+
+\bibitem{rueckauer2017conversion}
+Bodo Rueckauer, Iulia-Alexandra Lungu, Yuhuang Hu, Michael Pfeiffer, and
+  Shih-Chii Liu.
+\newblock Conversion of continuous-valued deep networks to efficient
+  event-driven networks for image classification.
+\newblock {\em Frontiers in neuroscience}, 11:682, 2017.
+
+\bibitem{sainath2015convolutional}
+Tara~N Sainath, Oriol Vinyals, Andrew Senior, and Ha{\c{s}}im Sak.
+\newblock Convolutional, long short-term memory, fully connected deep neural
+  networks.
+\newblock In {\em 2015 IEEE International Conference on Acoustics, Speech and
+  Signal Processing (ICASSP)}, pages 4580--4584. IEEE, 2015.
+
+\bibitem{sandler2018mobilenetv2}
+Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, and Liang-Chieh
+  Chen.
+\newblock Mobilenetv2: Inverted residuals and linear bottlenecks.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 4510--4520, 2018.
+
+\bibitem{sengupta2019going}
+Abhronil Sengupta, Yuting Ye, Robert Wang, Chiao Liu, and Kaushik Roy.
+\newblock Going deeper in spiking neural networks: Vgg and residual
+  architectures.
+\newblock {\em Frontiers in neuroscience}, 13:95, 2019.
+
+\bibitem{sharmin2019comprehensive}
+Saima Sharmin, Priyadarshini Panda, Syed~Shakib Sarwar, Chankyu Lee, Wachirawit
+  Ponghiran, and Kaushik Roy.
+\newblock A comprehensive analysis on adversarial robustness of spiking neural
+  networks.
+\newblock In {\em 2019 International Joint Conference on Neural Networks
+  (IJCNN)}, pages 1--8. IEEE, 2019.
+
+\bibitem{sironi2018hats}
+Amos Sironi, Manuele Brambilla, Nicolas Bourdis, Xavier Lagorce, and Ryad
+  Benosman.
+\newblock Hats: Histograms of averaged time surfaces for robust event-based
+  object classification.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1731--1740, 2018.
+
+\bibitem{soomro2012ucf101}
+Khurram Soomro, Amir~Roshan Zamir, and Mubarak Shah.
+\newblock Ucf101: A dataset of 101 human actions classes from videos in the
+  wild.
+\newblock {\em arXiv preprint arXiv:1212.0402}, 2012.
+
+\bibitem{srivastava2015unsupervised}
+Nitish Srivastava, Elman Mansimov, and Ruslan Salakhudinov.
+\newblock Unsupervised learning of video representations using lstms.
+\newblock In {\em International conference on machine learning}, pages
+  843--852, 2015.
+
+\bibitem{stromatias2017event}
+Evangelos Stromatias, Miguel Soto, Teresa Serrano-Gotarredona, and Bernab{\'e}
+  Linares-Barranco.
+\newblock An event-driven classifier for spiking neural networks fed with
+  synthetic or dynamic vision sensor data.
+\newblock {\em Frontiers in neuroscience}, 11:350, 2017.
+
+\bibitem{tavanaei2019deep}
+Amirhossein Tavanaei, Masoud Ghodrati, Saeed~Reza Kheradpisheh, Timothee
+  Masquelier, and Anthony Maida.
+\newblock Deep learning in spiking neural networks.
+\newblock {\em Neural Networks}, 111:47--63, 2019.
+
+\bibitem{tavanaei2019bp}
+Amirhossein Tavanaei and Anthony Maida.
+\newblock Bp-stdp: Approximating backpropagation using spike timing dependent
+  plasticity.
+\newblock {\em Neurocomputing}, 330:39--47, 2019.
+
+\bibitem{touvron2019fixing}
+Hugo Touvron, Andrea Vedaldi, Matthijs Douze, and Herv{\'e} J{\'e}gou.
+\newblock Fixing the train-test resolution discrepancy.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  8252--8262, 2019.
+
+\bibitem{tran2015learning}
+Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, and Manohar Paluri.
+\newblock Learning spatiotemporal features with 3d convolutional networks.
+\newblock In {\em Proceedings of the IEEE international conference on computer
+  vision}, pages 4489--4497, 2015.
+
+\bibitem{vahdat2020nvae}
+Arash Vahdat and Jan Kautz.
+\newblock Nvae: A deep hierarchical variational autoencoder.
+\newblock {\em Advances in Neural Information Processing Systems}, 33, 2020.
+
+\bibitem{wang2019space}
+Qinyi Wang, Yexin Zhang, Junsong Yuan, and Yilong Lu.
+\newblock Space-time event clouds for gesture recognition: from rgb cameras to
+  event cameras.
+\newblock In {\em 2019 IEEE Winter Conference on Applications of Computer
+  Vision (WACV)}, pages 1826--1835. IEEE, 2019.
+
+\bibitem{wang2020temporal}
+Wei Wang, Shibo Zhou, Jingxi Li, Xiaohua Li, Junsong Yuan, and Zhanpeng Jin.
+\newblock Temporal pulses driven spiking neural network for fast object
+  recognition in autonomous driving.
+\newblock {\em arXiv preprint arXiv:2001.09220}, 2020.
+
+\bibitem{wu2018spiking}
+Jibin Wu, Yansong Chua, Malu Zhang, Haizhou Li, and Kay~Chen Tan.
+\newblock A spiking neural network framework for robust sound classification.
+\newblock {\em Frontiers in neuroscience}, 12:836, 2018.
+
+\bibitem{wu2018spatio}
+Yujie Wu, Lei Deng, Guoqi Li, Jun Zhu, and Luping Shi.
+\newblock Spatio-temporal backpropagation for training high-performance spiking
+  neural networks.
+\newblock {\em Frontiers in neuroscience}, 12:331, 2018.
+
+\bibitem{wu2019direct}
+Yujie Wu, Lei Deng, Guoqi Li, Jun Zhu, Yuan Xie, and Luping Shi.
+\newblock Direct training for spiking neural networks: Faster, larger, better.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~33, pages 1311--1318, 2019.
+
+\bibitem{xie2020self}
+Qizhe Xie, Minh-Thang Luong, Eduard Hovy, and Quoc~V Le.
+\newblock Self-training with noisy student improves imagenet classification.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 10687--10698, 2020.
+
+\bibitem{xingjian2015convolutional}
+SHI Xingjian, Zhourong Chen, Hao Wang, Dit-Yan Yeung, Wai-Kin Wong, and
+  Wang-chun Woo.
+\newblock Convolutional lstm network: A machine learning approach for
+  precipitation nowcasting.
+\newblock In {\em Advances in neural information processing systems}, pages
+  802--810, 2015.
+
+\bibitem{zhang2013spike}
+Xu Zhang, Ziye Xu, Craig Henriquez, and Silvia Ferrari.
+\newblock Spike-based indirect training of a spiking neural network-controlled
+  virtual insect.
+\newblock In {\em 52nd IEEE Conference on Decision and Control}, pages
+  6798--6805. IEEE, 2013.
+
+\end{thebibliography}

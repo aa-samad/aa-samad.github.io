@@ -1,0 +1,31 @@
+.hex-brick {background: rgb(0, 70, 100); }
+::selection { background: rgba(12, 192, 222, 0.3); }
+.pill-button { color: rgb(12, 192, 222); }
+.pill-button:hover, .pill-button.active { color: rgb(12, 192, 222); }
+.overlay-menu a:hover { color: rgb(12, 192, 222) !important; }
+.overlay-menu a.active { color: rgb(12, 192, 222) !important; }
+.bg-base-color { background-color: rgb(12, 192, 222) !important; }
+.base-color { color: rgb(12, 192, 222) !important; }
+.follow-label::before { background-color: rgb(12, 192, 222); }
+.social a:hover { color: rgb(12, 192, 222) !important; }
+.social-icon a:hover { color: rgb(12, 192, 222); }
+#pp-nav li:hover span { background-color: rgb(12, 192, 222) !important; }
+#pp-nav li .active span { background-color: rgb(12, 192, 222) !important; }
+.border-style { background-color: rgb(12, 192, 222); }
+.timeline-icon { border: 1px solid rgb(12, 192, 222); background-color: rgb(12, 192, 222); }
+.timeline-year { color: rgb(12, 192, 222); }
+.timeline-item::before { border: 1px solid rgb(12, 192, 222); }
+.skill-box .fill-skillbar { background-color: rgb(12, 192, 222); }
+.portfolio .portfolio-filter li a { color: rgb(12, 192, 222); }
+.testimonial .owl-dot.active span { background-color: rgb(12, 192, 222); }
+.blog-link a:hover { color: rgb(12, 172, 201) !important; }
+.portfolio .portfolio-item-content::before { background-color: rgba(12, 192, 222, 0.9); }
+.portfolio .portfolio-icon a:first-child i, .portfolio .portfolio-icon a i { color: rgb(12, 192, 222); }
+.testimonial .owl-carousel .owl-dot.active span { background-color: rgb(12, 192, 222); }
+.contact .form-item .form-control { color: rgb(12, 192, 222); }
+.loader { border-top: 4px solid rgb(12, 192, 222) !important; }
+.flat-demo .button-border, .arshia-dark.flat-demo .button-border { background-color: rgb(12, 192, 222); }
+.flat-demo .pill-button:hover, .flat-demo .pill-button.active { background-color: rgb(12, 172, 201); }
+.arshia-dark .social-icon a:hover, .arshia-dark .social a:hover { color: rgb(12, 192, 222) !important; }
+.arshia-dark #pp-nav li .active span { background-color: rgb(12, 192, 222) !important; }
+.arshia-dark #pp-nav li:hover span { background-color: rgb(12, 192, 222) !important; }
